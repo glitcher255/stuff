@@ -1,1 +1,0 @@
-"This file hello ! CHANGE TWO CHANGE THREE !!!Q! should be ignored by git"
