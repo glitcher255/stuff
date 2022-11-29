@@ -1,1 +1,1 @@
-"This file hello ! should be ignored by git"
+"This file hello ! CHANGE TWO should be ignored by git"
